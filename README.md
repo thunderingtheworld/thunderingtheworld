@@ -1,4 +1,8 @@
-## Hi there 👋
+>  *Thundering the world with the might of my voice*
+> 
+> -- Mayakovsky
+
+Interested in climbing, brazilian jiu jitsu and the flow of writing
 
 <!--
 **thunderingtheworld/thunderingtheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
